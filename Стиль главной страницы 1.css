@@ -1,0 +1,48 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgb(255, 230, 167);
+}
+header{
+    text-align: center;
+}
+a {
+    border: 2px solid rgb(255, 230, 167);
+    display: inline-block;
+    padding: 10px 10px;
+    background-color: rgb(119, 47, 26);
+    color: rgb(254, 250, 224);
+    text-decoration: none;
+    border-radius: 100px;
+    font-family: Verdana;
+    font-size: 18px;
+}
+a:hover {
+    background-color: rgb(254, 250, 224);
+    color: rgb(119, 47, 26);
+}
+.inform {
+    text-align: center;
+    font-family: Verdana;
+    color: rgb(119, 47, 26);
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%; 
+    background-color: rgb(254, 250, 224);
+    padding: 20px;
+    text-align: center;
+    font-size: 14px;
+    color: rgb(119, 47, 26);
+    font-family: Verdana;
+    font-size: 12px;
+}
+.c_img{
+    width: 230px;
+    max-height: 230px;
+}
